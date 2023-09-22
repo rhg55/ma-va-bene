@@ -1,0 +1,264 @@
+
+body { 
+       margin: 0;
+       padding: 0;
+       background-color: #E651DA;
+       } 
+Canvas {
+       display: block;
+       }
+.canvas {
+    background-image: url('Media/Group.png');
+    width:100%;
+    position:absolute;
+    background-repeat: no-repeat;
+}
+
+
+#test {
+    position:absolute;
+    top:42px;
+    left:296px;
+}
+#test a{
+    color: #68C0F3;
+    font-size: 63px;
+}
+#test a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test a:visited {
+  color: whitesmoke;
+}
+#test a:visited:hover {
+  color: #68C0F3;
+}
+
+
+#test2 {
+    position:absolute;
+    top:335px;
+    left:54px;
+    line-height: 222%;
+}
+#test2 a{
+    color: #36FFDA;
+    font-size: 169px;
+}
+#test2 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test2 a:visited {
+  color: whitesmoke;
+}
+#test2 a:visited:hover {
+  color: #36FFDA;
+}
+
+
+#test3 {
+    position:absolute;
+    top:264px;
+    left:805px;
+    font-size: 33px;
+}
+#test3 a{
+    color: #68C0F3;
+    font-size: 33px;
+}
+#test3 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test3 a:visited {
+  color: whitesmoke;
+}
+#test3 a:visited:hover {
+  color: #68C0F3;
+}
+
+
+#test4 {
+    position:absolute;
+    top:760px;
+    left:166px;
+}
+#test4 a{
+    color: #36FFDA;
+    font-size: 63px;
+}
+#test4 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test4 a:visited {
+  color: whitesmoke;
+}
+#test4 a:visited:hover {
+  color: #36FFDA;
+}
+
+
+#test5 {
+    position:absolute;
+    top:764px;
+    left:855px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+#test5 a{
+    color: #36FFDA;
+    font-size: 63px;
+}
+#test5 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test5 a:visited {
+  color: whitesmoke;
+}
+#test5 a:visited:hover {
+  color: #36FFDA;
+}
+
+
+#test6 {
+    position:absolute;
+    top:1029px;
+    left:365px;
+    line-height: 110%;
+}
+#test6 a{
+    color: #68C0F3;
+    font-size: 63px;
+}
+#test6 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test6 a:visited {
+  color: whitesmoke;
+}
+#test6 a:visited:hover {
+  color: #68C0F3;
+}
+
+
+#test7 {
+    position:absolute;
+    top:1278px;
+    left:730px;
+    line-height: 120%;
+}
+#test7 a{
+    color: #68C0F3;
+    font-size: 63px;
+}
+#test7 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test7 a:visited {
+  color: whitesmoke;
+}
+#test7 a:visited:hover {
+  color: #68C0F3;
+}
+
+
+#test8 {
+    position:absolute;
+    top:1664px;
+    left:527px;
+}
+#test8 a{
+    color: #36FFDA;
+    font-size: 63px;
+}
+#test8 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test8 a:visited {
+  color: whitesmoke;
+}
+#test8 a:visited:hover {
+  color: #36FFDA;
+}
+
+
+#test9 {
+    position:absolute;
+    top:1803px;
+    left:47px;
+    line-height: 120%;
+}
+#test9 a{
+    color: #36FFDA;
+    font-size: 63px;
+}
+#test9 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test9 a:visited {
+  color: whitesmoke;
+}
+#test9 a:visited:hover {
+  color: #36FFDA;
+}
+
+
+#test10 {
+    position:absolute;
+    top:1875px;
+    left:856px;
+    line-height: 120%;
+}
+#test10 a{
+    color: #68C0F3;
+    font-size: 63px;
+}
+#test10 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test10 a:visited {
+  color: whitesmoke;
+}
+#test10 a:visited:hover {
+  color: #68C0F3;
+}
+
+#test11 {
+    position:absolute;
+    top:-25px;
+    left:1075px;
+}
+#test11 a{
+    color: #C600B6;
+    font-size: 35px;
+}
+#test11 a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#test11 a:visited {
+  color: whitesmoke;
+}
+#test11 a:visited:hover {
+  color: #C600B6;
+}
